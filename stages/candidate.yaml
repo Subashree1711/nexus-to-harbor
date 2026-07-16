@@ -1,0 +1,4 @@
+# Candidate stage values - updated by Kargo promotion
+image:
+  repository: nexus.example.com/alpine
+  tag: "latest"  # This tag is updated by Kargo when freight is promoted to Candidate

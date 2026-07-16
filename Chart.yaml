@@ -1,0 +1,6 @@
+apiVersion: v2
+name: nexus-to-edge
+description: Helm chart for Nexus-to-Edge image promotion pipeline via Kargo
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
