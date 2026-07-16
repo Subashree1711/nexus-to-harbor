@@ -1,4 +1,4 @@
 # Production stage values (site-b) - updated by Kargo promotion
 image:
-  repository: nexus.example.com/alpine
+  repository: 10.1.4.7:8082/alpine
   tag: "latest"  # This tag is updated by Kargo when freight is promoted to Production
